@@ -1,0 +1,2 @@
+content/admin/monitoring-managing-and-updating-your-instance/monitoring-your-instance/collectd-metrics-for-github-enterprise-server.md
+-metrics-for-github-enterprise-server.massets/ghes-collectd-metrics.csvcontent/admin/monitoring-managing-and-updating-your-instance/monitoring-your-instance/collectd-metrics-for-github-enterprise-server.md-metrics-for-github-enterprise-server.mdhttps://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:b58f6f8c-059a-4df9-b43f-402a41c03038
